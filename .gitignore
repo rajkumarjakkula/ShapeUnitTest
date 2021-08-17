@@ -1,0 +1,9 @@
+# Project exclude paths
+.gradle/
+.idea/
+gradle/
+build/
+build.gradle
+settings.gradle
+gradlew.bat
+gradlew
